@@ -1,0 +1,1 @@
+# WishMessage-class-0-Param-Contructore
